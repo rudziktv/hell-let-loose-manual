@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "Czołgi/Książeczka rozpoznawcza czołgów.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Książeczka rozpoznawcza czołgów"
@@ -226,7 +226,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "71c0b7fc97b11f48",
+  "active": "aa0886eb0813e0a0",
   "lastOpenFiles": [
     "Images/Recognition Tank Manual/British/tetrarch_side.png",
     "Images/Recognition Tank Manual/British/tetrarch_front.png",
