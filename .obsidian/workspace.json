@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "ae35e76fdc1a42ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8bf54f0189e51db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ebe26fbc430524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "aa0886eb0813e0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Czołgi/Książeczka rozpoznawcza czołgów.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Książeczka rozpoznawcza czołgów"
+            }
+          },
+          {
+            "id": "3bb7d83dbec44131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Czołgi/Kierowca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kierowca"
+            }
+          },
+          {
+            "id": "af3ee7c5d77d6f12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ogólne/Mapa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mapa"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd41b8bcc615f07d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e2d1107b5f0062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c0b7fc97b11f48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49a082b2c5c2064b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3381c9ba8c3c41c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c77af276f39d22c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a867641e97e74b7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4feb8d80b6ad49aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Czołgi/Książeczka rozpoznawcza czołgów.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Książeczka rozpoznawcza czołgów"
+            }
+          },
+          {
+            "id": "0bb8fee5db53dcd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Czołgi/Książeczka rozpoznawcza czołgów.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Książeczka rozpoznawcza czołgów"
+            }
+          },
+          {
+            "id": "9641e28bb61ce82f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d9e9208f21a6fdcf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8d17cb9c17866460",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Czołgi/Książeczka rozpoznawcza czołgów.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Książeczka rozpoznawcza czołgów"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "71c0b7fc97b11f48",
+  "lastOpenFiles": [
+    "Images/Recognition Tank Manual/British/tetrarch_side.png",
+    "Images/Recognition Tank Manual/British/tetrarch_front.png",
+    "Images/Recognition Tank Manual/British/cromwell_side.png",
+    "Images/Recognition Tank Manual/British/cromwell_front.png",
+    "Images/Recognition Tank Manual/British/churchill_side.png",
+    "Images/Recognition Tank Manual/British/churchill_front.png",
+    "Images/Recognition Tank Manual/British",
+    "Images/Recognition Tank Manual/British/churchill_avre_side.png",
+    "Images/Recognition Tank Manual/British/churchill_avre_front.png",
+    "Images/Recognition Tank Manual/USA/sherman_105_side.png",
+    "Images/Recognition Tank Manual/USA/sherman_105_front.png",
+    "Images/Recognition Tank Manual/USA/stuart_side.png",
+    "Czołgi/Książeczka rozpoznawcza czołgów.md",
+    "Recognition Manual Spec.md",
+    "Images/Recognition Tank Manual/ZSRR",
+    "Images/Recognition Tank Manual/Germany",
+    "Images/Recognition Tank Manual/USA",
+    "Images/Recognition Tank Manual",
+    "Czołgi/Celowniczy.md",
+    "Czołgi/Czołgista.md",
+    "Czołgi/Czołgi Index.md",
+    "Czołgi/Kierowca.md",
+    "Czołgi/Dowódca.md",
+    "Ogólne/Mapa.md",
+    "Ogólne",
+    "Untitled.canvas",
+    "Images",
+    "Welcome.md",
+    "Czołgi"
+  ]
+}
