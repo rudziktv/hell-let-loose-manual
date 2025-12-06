@@ -15,7 +15,7 @@
 ![[sherman_105_side.png]]
 
 # Trzecia Rzesza
-# Panther (ciężki)
+## Panther (ciężki)
 ![[panther_front.png]]
 ![[panther_side.png]]
 ## Panzer IV (średni)
